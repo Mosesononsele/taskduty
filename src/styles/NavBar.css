@@ -1,0 +1,13 @@
+.nav-container{
+    background-color: rgb(235, 232, 232);
+    color: black;
+}
+
+.nav-container ul{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    list-style: none;
+}
+
